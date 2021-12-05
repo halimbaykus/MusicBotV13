@@ -4,3 +4,5 @@ Umut Bayraktar Youtube Özel Discord.js v13 Müzik Botu Altyapısı.<br>
 <br><br>
 Umut Bayraktar Youtube: <a href="https://www.youtube.com/UmutBayraktarYT">Abone Ol</a><br>
 Discord: <a href="https://discord.gg/58e5H4try3">Katıl</a>
+<br><br>
+Code Share Discord: <a href="https://discord.gg/6XGqdgE">KATIL</a>
