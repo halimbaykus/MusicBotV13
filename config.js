@@ -1,7 +1,7 @@
 module.exports = {
-        px: '!',
-        token: '', //DİSCORD BOTUNUZUN TOKENİNİ YAZIN
-        playing: 'Umut Bayraktar ❤️ Müzik Botu',
+        px: '.',
+        token: 'OTE4ODkyNTg2NTU3NjUzMDIy.YbN3aA.F1W_6ribckNeQ5cYcNiEGGOEBx8', //DİSCORD BOTUNUZUN TOKENİNİ YAZIN
+        playing: 'MUPSİC BOT',
 
     opt: {
         DJ: {
